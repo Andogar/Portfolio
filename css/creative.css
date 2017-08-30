@@ -53,7 +53,7 @@ p {
   color: rgba(255, 255, 255, 0.7);
 }
 section {
-  padding: 50px 0;
+  padding: 25px 0;
 }
 aside {
   padding: 50px 0;
@@ -534,3 +534,8 @@ body {
 .bg-compliment {
   background-color: #FFD073;
 } 
+
+.img-circle {
+  border-radius: 50%;
+  padding-bottom: 15px;
+}
